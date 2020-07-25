@@ -1,0 +1,23 @@
+ASSIGNMENT DAY 1 - BLOCKCHAIN - BATCH 1
+
+
+What is your understanding of Blockchain?
+*Its used to make trust between End Users.
+
+What is the core problem blockchain trying to solve?
+*The problem of the internet like authenticity, security, trust.
+
+What are the few features which blockchain will give you?
+*Immutable
+*Unchangeable
+*Tamper-Proof
+*Verifiable
+
+What all things does a Block Contain?
+*It will made data transparency to every one connected in the blockchain.
+
+How is the verifiability of Blockchain is been attained ??
+*We can match the Current Hash keys with others are conneted in the blockchain. By this we can verify, if we have the correct hash key or the content or the data which we have.
+
+
+#Watched_Day1_Video #blockchain #LetsUpgrade
